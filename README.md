@@ -1,2 +1,2 @@
 # BedrockGradleManifest
-A Bedrock Manifest Generator for gradle.
+A Bedrock Manifest.json Generator for gradle.
